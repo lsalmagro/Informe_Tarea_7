@@ -3,15 +3,15 @@ Capitulo 13 y 14
 
 1. OBJETIVOS
 
-- Obtener conocimientos globales en lo que concierte al Capitulo 11 y 12. De los temas: Introducción a la Corriente y al voltaje alternos; asi como Capacitores, respectivamente.
-- Determinar, indentifcar, analizar y medir ondas sinusoidales.
-- Analizar, describir y estuidar las caracteristicas de los capacitores.
+- Obtener conocimientos globales en lo que concierte al Capitulo 13 y 14. De los temas: Inductores; asi como Transformadores, respectivamente.
+- Estudiar varios tipos de inductores en serie y paralelo, asi como en DC y AC.
+- Describir como se construye,analiza, describe y localiza un transformador.
 
 2. MARCO TEÓRICO (RESUMEN)
 
-![image](https://user-images.githubusercontent.com/105899463/180879073-2d3f85e9-0863-4cb2-bb50-c336147677da.png)
+![image](https://user-images.githubusercontent.com/105899463/185293688-3d1fcc2a-2438-4ea3-9084-333f245a373f.png)
 
-![image](https://user-images.githubusercontent.com/105899463/180928215-7e9fa0c4-3777-40b4-ac0b-4dda49ba4056.png)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -29,16 +29,16 @@ CAP 12
 
 4.VÍDEO
 
-Introducción a la corriente y al voltajes alternos.
+Inductores:
 https://youtu.be/izTmoniT6QU
 
-Capacitores.
+Transformadores:
 https://youtu.be/DRcRd8Fse_Y
 
 5.CONCLUSIONES
 
-- Se logró obtener los conocimientos necesarios para indentificar, describir y analizar corrientes y voltajes en ondas sinusoidales.
-- Se obtuvó conocimientos generales de los capacitores.
+- Se logro identificar y calcular la inductancia ya sea este en serie o paralelo.
+- Se logó determinar cada una de las funcionalidades y principios de los tranformadores.
 
 6.BIBLIOGRAFIA
 

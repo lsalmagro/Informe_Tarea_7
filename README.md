@@ -11,21 +11,42 @@ Capitulo 13 y 14
 
 ![image](https://user-images.githubusercontent.com/105899463/185293688-3d1fcc2a-2438-4ea3-9084-333f245a373f.png)
 
+![image](https://user-images.githubusercontent.com/105899463/185298896-a8e8ba11-9e08-459e-9773-f09c032a272c.png)
 
 
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIO:
 
-![image](https://user-images.githubusercontent.com/105899463/180718601-a98c7602-21e2-4026-8ce8-f320eea16b79.png)
+CAP 13
 
-![image](https://user-images.githubusercontent.com/105899463/180718168-5e5d4596-357b-45df-bc35-8a3853682d31.png)
+![image](https://user-images.githubusercontent.com/105899463/185299293-a9514339-4d1d-4884-a8ee-d17064453012.png)
 
-![image](https://user-images.githubusercontent.com/105899463/180718289-6c152a42-acdd-4d73-8946-8e076b76ebbc.png)
+![image](https://user-images.githubusercontent.com/105899463/185299377-d43cce96-3c84-4d9c-8de6-34c3bc695a52.png)
 
-![image](https://user-images.githubusercontent.com/105899463/180718359-9b8b6293-ba1f-4405-9147-90d1d88b6688.png)
+![image](https://user-images.githubusercontent.com/105899463/185299409-1f036de4-2546-4dd0-b651-91a13a12d79e.png)
 
-![image](https://user-images.githubusercontent.com/105899463/180718444-a9298f08-c6a8-4f3d-b38e-489d80d53296.png)
-CAP 12
+![image](https://user-images.githubusercontent.com/105899463/185299433-e17ae606-1714-4c22-8e35-bcdc77bb60dd.png)
 
+![image](https://user-images.githubusercontent.com/105899463/185299469-b2ad33bd-8f67-474f-9895-29379434840c.png)
+
+![image](https://user-images.githubusercontent.com/105899463/185299530-3cd73de6-0c8c-454b-b008-aa1b6ee123ff.png)
+
+CAP 14
+
+![image](https://user-images.githubusercontent.com/105899463/185299603-2a84c253-5b37-48c3-a7cd-7503f3cb30d0.png)
+
+![image](https://user-images.githubusercontent.com/105899463/185299631-de1eac54-6ed1-4036-8974-d3802e4be229.png)
+
+![image](https://user-images.githubusercontent.com/105899463/185299664-4efe7687-725f-4bed-8f6f-395251f2a7e0.png)
+
+![image](https://user-images.githubusercontent.com/105899463/185299728-fc8ca20a-96c9-429e-9445-30ff85efd085.png)
+
+![image](https://user-images.githubusercontent.com/105899463/185299765-84c4b62a-9687-4e63-b4d8-fd1c9ff903d9.png)
+
+![image](https://user-images.githubusercontent.com/105899463/185299854-30237f50-eff3-410a-98f5-8c3b5174b07b.png)
+
+![image](https://user-images.githubusercontent.com/105899463/185299898-94fcff65-2743-40d3-b719-695c87af3c13.png)
+
+![image](https://user-images.githubusercontent.com/105899463/185299941-ba72bdb5-421f-4e3f-b2f8-56f5bdfc48a8.png)
 
 4.VÍDEO
 

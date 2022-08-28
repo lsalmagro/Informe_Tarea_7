@@ -1,4 +1,5 @@
-# Informe_Tarea_7
+# Informe_Tarea_7_Almagro_Luis
+
 Capitulo 13 y 14
 
 1. OBJETIVOS
